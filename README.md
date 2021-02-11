@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **leoander01/leoander01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Atualmente trabalho como Analista de Sistemas na Unimed Regional Sul Goiás
+- 🌱 Estou aprendendo Javascript, Typescript, React e REactJS
+- 👯 Procuro contribuir com projetos open source
+- 📫 Pode me encontrar em: <a href="https://www.linkedin.com/in/leoander-neves-326106186/">LinkedIn</a>, <a href="https://www.instagram.com/leoz0ka/?hl=pt-br/">Instagram</a>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoander01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
