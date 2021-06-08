@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 Atualmente trabalho como Analista de Sistemas na Unimed Regional Sul Goiás
 - 🌱 Estou aprendendo Javascript, Typescript, React e ReactJS
 - 👯 Procuro contribuir com projetos open source
-- 📫 Pode me encontrar no: <a href="https://www.linkedin.com/in/leoander-neves-326106186/" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/leoz0ka/?hl=pt-br/" target="_blank">Instagram</a>
+- 📫 Pode me encontrar no: <a href="https://www.linkedin.com/in/leoander-neves-326106186/" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/leoanderneves/" target="_blank">Instagram</a>
 - 🧑🏻‍💻 Para ver meu portfólio clique <a href="https://www.leoanderneves.com.br/" target="_blank">aqui</a>!
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoander01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
