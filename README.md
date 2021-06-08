@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 🌱 Estou aprendendo Javascript, Typescript, React e ReactJS
 - 👯 Procuro contribuir com projetos open source
 - 📫 Pode me encontrar no: <a href="https://www.linkedin.com/in/leoander-neves-326106186/">LinkedIn</a>, <a href="https://www.instagram.com/leoz0ka/?hl=pt-br/">Instagram</a>
+- 🧑🏻‍💻 Para ver meu portfólio clique <a href="https://www.leoanderneves.com">aqui</a>!
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoander01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
