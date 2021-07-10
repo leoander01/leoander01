@@ -14,7 +14,7 @@
 -->
 
 <h1 align='center'>
-  Olá! 👋 Eu sou <a href="https://www.leoanderneves.com.br/" style="color: #7cc4f4">Leoander Neves</a> 👨‍💻
+  Olá! 👋 Eu sou <a href="https://www.leoanderneves.com.br/" style="color: #450b83">Leoander Neves</a> 👨‍💻
 </h1>
 
 <p align='center'>
