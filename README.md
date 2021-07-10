@@ -14,7 +14,7 @@
 -->
 
 <h1 align='center'>
-  Olá! 👋 Eu sou <a href="https://www.leoanderneves.com.br/" target="_blank">Leoander Neves</a> 👨‍💻
+  Olá! 👋 Eu sou <a href="https://www.leoanderneves.com.br/" style="color: #7cc4f4">Leoander Neves</a> 👨‍💻
 </h1>
 
 <p align='center'>
@@ -42,12 +42,12 @@
   📫 Como me encontrar: <a href='mailto:leoanderneves8@outlook.com'>leoanderneves8@outlook.com</a>
 </p>
 
+<p align='center'>Ou pode me porcurar nas redes sociais abaixo:</p>
 <p align='center'>
-  <p align='center'>Ou pode me porcurar nas redes sociais abaixo:</p>
-  <a href="https://www.linkedin.com/in/leoander-neves-326106186/" target="_blank">
+  <a href="https://www.linkedin.com/in/leoander-neves-326106186/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/leoanderneves/" target="_blank">
+  <a href="https://www.instagram.com/leoanderneves/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
