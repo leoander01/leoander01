@@ -42,7 +42,7 @@
   📫 Como me encontrar: <a href='mailto:leoanderneves8@outlook.com'>leoanderneves8@outlook.com</a>
 </p>
 
-<p align='center'>Ou pode me porcurar nas redes sociais abaixo:</p>
+<p align='center'>Ou pode me procurar nas redes sociais abaixo:</p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/leoander-neves-326106186/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
