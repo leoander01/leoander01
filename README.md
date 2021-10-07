@@ -18,7 +18,7 @@
 </h1>
 
 <p align='center'>
-  Um desenvolvedor Front End diretamente de Goiás, Brasil.
+  Um desenvolvedor diretamente de Goiás, Brasil.
 </p>
 
 <p align='center'>
