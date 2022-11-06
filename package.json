@@ -1,0 +1,26 @@
+{
+  "name": "leoander01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./info.json",
+  "bin": {
+    "leoander01": "./leoander01.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoander01/leoander01.git"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Leoander Neves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leoander01/leoander01/issues"
+  },
+  "homepage": "https://github.com/leoander01/leoander01#readme"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Leoander Neves",
+  "website": "https://www.leoanderneves.com.br/",
+  "twitch": "https://www.twitch.tv/leoander01",
+  "github": "https://github.com/leoander01",
+  "twitter": "https://twitter.com/leoander01",
+  "linkedin": "https://www.linkedin.com/in/leoander-neves",
+  "company": [
+    {
+      "name": "LAB3 DVLP",
+      "position": "Junior Back End Developer",
+      "website": "https://lab3dvlp.com",
+      "social": {
+        "coodesh": "https://coodesh.com/empresas/lab3-dvlp",
+        "linkedin": "https://www.linkedin.com/company/lab3-dvlp"
+      }
+    }
+  ]
+}
