@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning **typescript, node, databases and crypto**
 - 👯 I’m looking to collaborate on **open source projects**
 
-<br>
-
 ## Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/leoander-neves" target="blank">
@@ -15,8 +13,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Leoander#0440" height="30" width="40" />
   </a>
 </p>
-
-<br>
 
 ## Techs I'm working with at the moment
 <p align="left">
@@ -64,10 +60,7 @@
   </a>
 </p>
 
-
-<br>
-<video autoplay loop playsinline controls  src="./leoander01.mp4"></video>
-
+<video autoplay loop playsinline controls src="https://raw.githubusercontent.com/leoander01/leoander01/main/leoander01.mp4"></video>
 To get my contact information, run this command on your terminal:
 
 ```console
